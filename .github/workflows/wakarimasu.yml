@@ -1,0 +1,47 @@
+name: wakarimasu
+
+on:
+  workflow_dispatch:
+    inputs:
+      ver:
+        description: Version
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '9 9 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  wakarimasu:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      - name: PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: latest
+          extensions: yaml
+      - name: Wakarimasu
+        run: php wakarimasu.php
+        env:
+          WAKARIMASU_INIT_URL: ${{ secrets.INIT_URL }}
+          WAKARIMASU_VERSION: ${{ vars.VERSION }}
+      - name: Unpack
+        run: |
+          if compgen -G "*.zip"
+          then
+            unzip -o \*.zip || true
+            find res -type f -name "*.pvr" -exec .tools/pvrgz.sh {} \; || true
+          fi
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: wakarimasu
+          commit_user_name: Wakarimasu
+          commit_user_email: wakarimasu@cirno.name
