@@ -1,0 +1,160 @@
+
+furniture.pvr
+size: 748,452
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+furniture_01
+  rotate: false
+  xy: 2, 48
+  size: 419, 402
+  orig: 419, 402
+  offset: 0, 0
+  index: -1
+furniture_02
+  rotate: false
+  xy: 586, 118
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+furniture_03
+  rotate: false
+  xy: 652, 108
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+furniture_04
+  rotate: false
+  xy: 351, 4
+  size: 40, 11
+  orig: 40, 11
+  offset: 0, 0
+  index: -1
+furniture_05
+  rotate: false
+  xy: 428, 4
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+furniture_06
+  rotate: false
+  xy: 693, 113
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+furniture_07
+  rotate: false
+  xy: 586, 29
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+furniture_08
+  rotate: false
+  xy: 586, 11
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+furniture_09
+  rotate: false
+  xy: 393, 2
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+furniture_10
+  rotate: false
+  xy: 351, 17
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+furniture_11
+  rotate: false
+  xy: 688, 147
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+furniture_12
+  rotate: false
+  xy: 586, 79
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+furniture_13
+  rotate: false
+  xy: 191, 8
+  size: 158, 38
+  orig: 158, 38
+  offset: 0, 0
+  index: -1
+furniture_14
+  rotate: false
+  xy: 2, 2
+  size: 187, 44
+  orig: 187, 44
+  offset: 0, 0
+  index: -1
+furniture_15
+  rotate: false
+  xy: 423, 205
+  size: 142, 245
+  orig: 142, 245
+  offset: 0, 0
+  index: -1
+furniture_16
+  rotate: false
+  xy: 652, 136
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+furniture_17
+  rotate: false
+  xy: 586, 181
+  size: 92, 51
+  orig: 92, 51
+  offset: 0, 0
+  index: -1
+furniture_18
+  rotate: false
+  xy: 567, 234
+  size: 165, 216
+  orig: 165, 216
+  offset: 0, 0
+  index: -1
+furniture_19
+  rotate: false
+  xy: 680, 207
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+furniture_20
+  rotate: false
+  xy: 647, 84
+  size: 55, 22
+  orig: 55, 22
+  offset: 0, 0
+  index: -1
+furniture_21
+  rotate: false
+  xy: 680, 183
+  size: 60, 22
+  orig: 60, 22
+  offset: 0, 0
+  index: -1
+furniture_22
+  rotate: false
+  xy: 423, 15
+  size: 161, 188
+  orig: 161, 188
+  offset: 0, 0
+  index: -1

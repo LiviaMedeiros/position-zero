@@ -1,0 +1,537 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0.18,
+	"FadeOutTime": 0.5,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"Value": 1,
+			"Blend": "Multiply"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLForm",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"Value": 0,
+			"Blend": "Multiply"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeRForm",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param12",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBTwinkle",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param11",
+			"Value": 60,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeBKira",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamCheek",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param4",
+			"Value": 60,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"Value": -0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"Value": -0.2,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": 4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthWidth",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthHight",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamWaistAngleZ",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBreath",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBodyPosition",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamShoulderL",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamShoulderR",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param10",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "Param9",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLegR",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLegL",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHairFront",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHairSide",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHairBack",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHairFrontFuwa",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHairSideFuwa",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamHairBackFuwa",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamJacket",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBust",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamSkirfW",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamSkirt",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmA01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmA02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmD02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmA03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmA04",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmA05",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmA06",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA04",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA05",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA06",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA07",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA08",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandA09",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmA01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmA02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmD02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmA03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmA04",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmA05",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmA06",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA04",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA05",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA06",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA07",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA08",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandA09",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmB01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmB02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmB03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmB04",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmB01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmB02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmB03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmB004",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmC01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmC02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLArmC03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandC01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamLHandC02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmC01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmC02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRArmC03",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandC01",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRHandC02",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAllMoveX",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAllMoveY",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAllRotate",
+			"Value": 0,
+			"Blend": "Add"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+
+furniture.pvr
+size: 216,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+furniture_01
+  rotate: false
+  xy: 2, 2
+  size: 211, 107
+  orig: 211, 107
+  offset: 0, 0
+  index: -1

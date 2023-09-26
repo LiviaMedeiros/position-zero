@@ -1,0 +1,62 @@
+
+furniture.pvr
+size: 176,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+furniture_01
+  rotate: false
+  xy: 2, 18
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+furniture_02
+  rotate: false
+  xy: 94, 9
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+furniture_03
+  rotate: false
+  xy: 132, 106
+  size: 38, 113
+  orig: 38, 113
+  offset: 0, 0
+  index: -1
+furniture_04
+  rotate: false
+  xy: 40, 4
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+furniture_09
+  rotate: false
+  xy: 91, 84
+  size: 39, 135
+  orig: 39, 135
+  offset: 0, 0
+  index: -1
+furniture_10
+  rotate: false
+  xy: 132, 2
+  size: 41, 102
+  orig: 41, 102
+  offset: 0, 0
+  index: -1
+furniture_11
+  rotate: false
+  xy: 2, 35
+  size: 36, 184
+  orig: 36, 184
+  offset: 0, 0
+  index: -1
+furniture_12
+  rotate: false
+  xy: 40, 58
+  size: 49, 161
+  orig: 49, 161
+  offset: 0, 0
+  index: -1

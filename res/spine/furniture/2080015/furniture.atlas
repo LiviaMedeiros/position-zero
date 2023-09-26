@@ -1,0 +1,111 @@
+
+furniture.pvr
+size: 300,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+furniture_01
+  rotate: false
+  xy: 2, 16
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+furniture_02
+  rotate: true
+  xy: 270, 120
+  size: 144, 24
+  orig: 144, 24
+  offset: 0, 0
+  index: -1
+furniture_03
+  rotate: true
+  xy: 252, 100
+  size: 164, 16
+  orig: 164, 16
+  offset: 0, 0
+  index: -1
+furniture_04
+  rotate: true
+  xy: 252, 62
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+furniture_05
+  rotate: false
+  xy: 2, 2
+  size: 40, 12
+  orig: 40, 12
+  offset: 0, 0
+  index: -1
+furniture_06
+  rotate: false
+  xy: 270, 80
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+furniture_07
+  rotate: false
+  xy: 270, 56
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+furniture_08
+  rotate: false
+  xy: 270, 44
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+furniture_10
+  rotate: true
+  xy: 44, 2
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+furniture_11
+  rotate: true
+  xy: 270, 66
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+furniture_12
+  rotate: true
+  xy: 70, 6
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+furniture_13
+  rotate: true
+  xy: 96, 6
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+furniture_14
+  rotate: true
+  xy: 122, 6
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+furniture_15
+  rotate: true
+  xy: 270, 98
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+furniture_16
+  rotate: false
+  xy: 252, 36
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
